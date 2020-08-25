@@ -19,4 +19,4 @@ use `getInstance` function to get a CountUp object.
 
 #### Sample
 Sample usage of this class is as below:
-![](resources/usage1.PNG?raw=true)
+![](resources/usage2.PNG?raw=true)
