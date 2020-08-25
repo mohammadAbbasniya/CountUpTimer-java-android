@@ -3,9 +3,10 @@ this is reverse version of `CountDownTimer` from `android.os` package.
 
 this class simply provides a functionality to count step by step with a fixed delay on each step from a defined start to a defined end.
 
+## Installation
+Easy as pie, just download `CountUp.java` file and place it in your project source.
+
 ## Usage
-
-
 #### Get Object
 use `getInstance` function to get a CountUp object.
 
